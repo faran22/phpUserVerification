@@ -1,2 +1,2 @@
 # phpUserVerification
-Weryfikacja danych osobowych użytkownika napisana w języku php.
+Weryfikacja danych osobowych napisana w języku php.
